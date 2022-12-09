@@ -45,7 +45,8 @@ defmodule Api.MixProject do
       {:gettext, "~> 0.20"},
       {:jason, "~> 1.4"},
       {:plug_cowboy, "~> 2.6"},
-      {:credo, "~> 1.6", only: [:dev, :test], runtime: false}
+      {:credo, "~> 1.6", only: [:dev, :test], runtime: false},
+      {:excoveralls, "~> 0.15", only: :test}
     ]
   end
 
