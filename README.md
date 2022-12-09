@@ -1,5 +1,8 @@
 # API
 
+[![ci](https://github.com/deolivtiago/testex/actions/workflows/ci.yml/badge.svg)](https://github.com/deolivtiago/testex/actions/workflows/ci.yml)
+[![coverage](https://coveralls.io/repos/github/deolivtiago/testex/badge.svg?branch=dev)](https://coveralls.io/github/deolivtiago/testex?branch=dev)
+
 ## Setup
 
 Requirements:
