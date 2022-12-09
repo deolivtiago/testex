@@ -1,5 +1,13 @@
 # API
 
+## Setup
+
+Requirements:
+
+  * Install `Elixir 1.14.0`
+  * Install `Erlang 25.1`
+  * Install `PostgreSQL 14.6`
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
