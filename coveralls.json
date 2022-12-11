@@ -2,6 +2,7 @@
   "skip_files": [
     "test",
     "lib/api/application.ex",
+    "lib/api/release.ex",
     "lib/api_web.ex",
     "lib/api_web/router.ex",
     "lib/api_web/telemetry.ex",
